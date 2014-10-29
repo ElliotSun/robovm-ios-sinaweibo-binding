@@ -1,0 +1,4 @@
+eclipse.project {
+    name = "weibo"
+    natures "org.robovm.eclipse.RoboVMNature"
+}
